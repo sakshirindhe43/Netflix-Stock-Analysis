@@ -17,3 +17,6 @@ The dataset consists of Netflix stock prices from May 23, 2002, to September 30,
 Python (Data Analysis)
 Pandas (Data Handling)
 Matplotlib & Seaborn (Data Visualization)
+
+#  Conclusion
+This project provides valuable insights into Netflix stock trends and historical performance using Python-based data analysis.
