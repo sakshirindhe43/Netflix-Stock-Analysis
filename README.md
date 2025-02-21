@@ -1,5 +1,5 @@
 # Netflix-Stock-Analysis
-This project provides valuable insights into Netflix stock trends and historical performance using Python-based data analysis.
+##project Objective
 This project analyzes Netflix stock data to provide insights into:
 1. Volume of stock traded
 2. Netflix stock price trends (High, Open, Close)
