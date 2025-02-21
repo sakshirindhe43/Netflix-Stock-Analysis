@@ -12,3 +12,8 @@ This project aims to analyze Netflix stock data and extract meaningful insights,
 https://github.com/sakshirindhe43/Netflix-Stock-Analysis/blob/main/Netflix.csv
 
 The dataset consists of Netflix stock prices from May 23, 2002, to September 30, 2021 .
+
+#  Technologies Used
+Python (Data Analysis)
+Pandas (Data Handling)
+Matplotlib & Seaborn (Data Visualization)
