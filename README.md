@@ -10,3 +10,4 @@ This project aims to analyze Netflix stock data and extract meaningful insights,
 
 #  Dataset Used
 https://github.com/sakshirindhe43/Netflix-Stock-Analysis/blob/main/Netflix.csv
+The dataset consists of Netflix stock prices from May 23, 2002, to September 30, 2021 .
