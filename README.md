@@ -1,5 +1,5 @@
 # Netflix-Stock-Analysis
-# # project Objective
+#  project Objective
 
 This project aims to analyze Netflix stock data and extract meaningful insights, including:
 1. Trading volume analysis 
@@ -8,5 +8,5 @@ This project aims to analyze Netflix stock data and extract meaningful insights,
 4. Identifying the Top 5 highest stock price dates 
 5. Identifying the Top 5 lowest stock price dates
 
-# #Dataset Used
+#  Dataset Used
 https://github.com/sakshirindhe43/Netflix-Stock-Analysis/blob/main/Netflix.csv
