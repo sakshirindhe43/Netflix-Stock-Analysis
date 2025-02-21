@@ -1,5 +1,6 @@
 # Netflix-Stock-Analysis
-##project Objective
+//project Objective
+
 This project analyzes Netflix stock data to provide insights into:
 1. Volume of stock traded
 2. Netflix stock price trends (High, Open, Close)
